@@ -16,4 +16,4 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-![Screenshot Aplikasi](ppm-sesi2.png)
+![Screenshot Aplikasi](aset/ppm-sesi2.png)
